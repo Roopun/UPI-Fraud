@@ -1,4 +1,4 @@
-💳 UPI Fraud Detection System
+💳 UPI Fraud Detection System 
 This project is a web-based fraud detection system that uses machine learning to identify fraudulent UPI transactions. Built using Streamlit for the frontend and optionally extendable with FastAPI for backend APIs, it leverages real-world financial transaction data to detect anomalies and prevent fraud.
 
 🔗 Live Deployment
