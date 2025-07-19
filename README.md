@@ -32,6 +32,7 @@ Handles highly imbalanced datasets (only 492 frauds out of 284,807)
 
 Scaled using StandardScaler
 
+
 🗂️ Project Structure
 bash
 Copy
