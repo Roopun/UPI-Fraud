@@ -31,11 +31,12 @@ This project is a web-based fraud detection system that uses machine learning to
 
 ## 🗂️ Project Structure
 
-📁 UPI-Fraud-Detection/
-├── 📄 app.py               → Streamlit application script
-├── 📄 requirements.txt     → Python dependencies
-├── 📄 xgb_fraud_model.pkl  → Trained XGBoost fraud detection model
-├── 📄 amount_scaler.pkl    → Scaler for the 'Amount' feature
-├── 📄 time_scaler.pkl      → Scaler for the 'Time' feature
-└── 📄 README.md            → Project overview and usage instructions
-                # Project overview and setup instructions
+UPI-Fraud-Detection/
+│
+├── app.py                # Streamlit app script
+├── requirements.txt      # Python dependencies file
+├── xgb_fraud_model.pkl   # Trained XGBoost model for fraud detection
+├── amount_scaler.pkl     # Scaler for 'Amount' feature
+├── time_scaler.pkl       # Scaler for 'Time' feature
+└── README.md             # Project overview and setup instructions
+
